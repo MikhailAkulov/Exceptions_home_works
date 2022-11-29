@@ -11,14 +11,14 @@ import java.util.Scanner;
 public class Task001_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
-        System.out.print("Введите дробное число: ");
-        float number;
+        System.out.print("Введите дробное число (разделяющий символ целой части - ','): ");
+        float num;
         while (!sc.hasNextFloat()) {
-            System.out.print("Ошибка! Вы ввели не число, попробуйте ещё разок: ");
+            System.out.print("Ошибка! Вы ввели не дробное число, попробуйте ещё разок: ");
             sc.next();
         }
-        number = sc.nextFloat();
-        System.out.println("Вы ввели число: " + number);
+        num = sc.nextFloat();
+        System.out.println("Вы ввели число: " + num);
         sc.close();
     }
 }
