@@ -8,6 +8,8 @@
 
     [Решение 2. (Уже интереснее, но не уверен, что правильно)](https://github.com/MikhailAkulov/Exceptions_home_works/blob/main/Home_work_2/Task001_2.java)
 
+    [Решение 3. Работа над ошибками](https://github.com/MikhailAkulov/Exceptions_home_works/blob/main/Home_work_2/Task001_3.java)
+
 2. Если необходимо, исправьте данный код (задание 2 [Код.](https://docs.google.com/document/d/17EaA1lDxzD5YigQ5OAal60fOFKVoCbEJqooB9XfhT7w/edit)
 
     [Решение Задачи №2.](https://github.com/MikhailAkulov/Exceptions_home_works/blob/main/Home_work_2/Task002.java)
@@ -21,3 +23,5 @@
     [Решение 1. (Exception выбрасывает так, что аж программа падает)](https://github.com/MikhailAkulov/Exceptions_home_works/blob/main/Home_work_2/Task004_1.java)
 
     [Решение 2. (Наверное, так всё-таки правильнее)](https://github.com/MikhailAkulov/Exceptions_home_works/blob/main/Home_work_2/Task004_2.java)
+
+    [Решение 3. Работа над ошибками](https://github.com/MikhailAkulov/Exceptions_home_works/blob/main/Home_work_2/Task004_3.java)
