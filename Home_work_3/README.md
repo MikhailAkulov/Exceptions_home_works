@@ -32,3 +32,7 @@
 **Не забудьте закрыть соединение с файлом.**
 
 *При возникновении проблемы с чтением-записью в файл, исключение должно быть корректно обработано, пользователь должен увидеть стектрейс ошибки.*
+
+[Результат](https://github.com/MikhailAkulov/Exceptions_home_works/blob/main/Ivanov)
+
+[Результат. Однофамильцы](https://github.com/MikhailAkulov/Exceptions_home_works/blob/main/Akulov)
